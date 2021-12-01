@@ -1,0 +1,6 @@
+framework module Pods_CoreDataTaskTests {
+  umbrella header "Pods-CoreDataTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
